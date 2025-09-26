@@ -1,0 +1,10 @@
+SeuRepositorio/
+├── Assets/
+│   ├── Scripts/
+│   │   ├── PokemonAPI.cs
+│   │   └── SimpleJSON/
+│   │       └── SimpleJSON.cs
+│   └── Scenes/
+│       └── (suas cenas Unity)
+├── README.md
+└── .gitignore
